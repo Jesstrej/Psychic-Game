@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/psychic-reading.jpg");
+  }
+
+  h1{
+      text-align: center;
+      color: hotpink;
+      font-size: 70px;
+  }
+
+  #game{
+      color: white;
+      text-align: center;
+      margin: 100px;
+  }
+  p{
+      margin: 50px;
+      font-size: 30px;
+  }
